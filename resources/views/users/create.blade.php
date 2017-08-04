@@ -2,7 +2,7 @@
 @extends('main')
 @section('title', 'Add new Teacher')
 @section('content_admin')
-
+<!-- Bimo -->
 <div class="container">
     <div class="row">
 		<div class="row">
